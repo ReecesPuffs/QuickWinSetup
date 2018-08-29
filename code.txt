@@ -45,12 +45,13 @@ IF %B%==5 GOTO Yandex
 IF %B%==6 GOTO ONEON
 IF %B%==7 GOTO StartMenu
 :chrome
-start iexplore.exe http://download1506.mediafire.com/iajitjrlbz7g/wgpxb6viys6t1co/ChromeSetup.exe
+start iexplore.exe https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7B0C43BE1F-D4FC-1BC1-B4FD-774E71FF1CDD%7D%26lang%3Den%26browser%3D3%26usagestats%3D1%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dx64-stable-statsdef_1%26installdataindex%3Dempty/chrome/install/ChromeStandaloneSetup64.exe
 cls
 goto StartMenu
 :FIREFUCKS
-start iexplore.exe http://download1652.mediafire.com/1g6ryjqgogjg/i241lfg4geb5v1h/Firefox+Installer.exe
+start iexplore.exe http://download1592.mediafire.com/xs2zoe06yixg/9zeag8oz8jjhzjr/Firefox+Setup+61.0.2.exe
 cls
+goto StartMenu
 :opera
 start iexplore https://net.geo.opera.com/opera/stable/windows?http_referrer=https://www.google.co.uk/&utm_source=google_via_opera_com&utm_medium=ose&utm_campaign=google_ose_via_opera_com_https&utm_lastpage=opera.com/&utm_tryagain=yes
 cls
